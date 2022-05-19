@@ -1,5 +1,5 @@
 {
     "batch_size":300,
-    "keywords":["war", "ukraine"],
+    "keywords":"['war',+'ukraine']",
     "tweets_from":"2022-02-24"
 }

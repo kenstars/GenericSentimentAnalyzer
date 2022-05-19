@@ -10,3 +10,8 @@
  in an upcoming meeting with the client.
 
 """
+
+Setup the python environment in sentiment_env
+run the analyze_twitter_sentiment.py as a module to collect data
+run the sentiment_analyzer_modules.py in helpers to create sentiment column for the same.
+
